@@ -1,6 +1,6 @@
 # 🐾 Animal Sound Challenge - Day 15
 
-# Welcome message
+# Welcome message to welcom users
 print("\033[1;36;40mWelcome to the Animal Sound Challenge! 🎉\n")
 print("In this game, you'll get to hear different animal sounds. 🐶🐱🐄")
 print("Type the name of an animal and I'll tell you what sound it makes! 😄")
